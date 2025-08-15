@@ -40,11 +40,6 @@ class BasicBlock:
             'Softmax': nn.Softmax()
         }
 
-    #def __str__(self):
-    #    print(f'Block: {self.block_name}')
-    #    for param in self.block_parameters:
-    #        param_value = self.block_parameters[param].get_value()
-     #       print(f'\t{param}: {param_value}')
 
     def init_block(self, block_id, allowed_connections):
         """

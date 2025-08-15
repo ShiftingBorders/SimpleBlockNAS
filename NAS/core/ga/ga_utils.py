@@ -15,7 +15,7 @@ def get_gray_code(val):
 
     return clear_gray_code, was_float
 
-def convert_to_int(val, was_float):  # Rename
+def convert_to_int(val, was_float):
     val = '0b' + val
     val = int(val, 2)
     decoded_val = gray_code.gray_code_to_tc(val)
