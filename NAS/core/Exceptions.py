@@ -1,0 +1,2 @@
+class NASException(Exception):
+    pass
