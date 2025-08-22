@@ -3,8 +3,7 @@
 **SimpleBlockNAS** is a *Neural Architecture Search* (NAS) framework that uses *Genetic Algorithms* (GA) to automatically discover optimal neural network architectures and tune hyperparameters.  
 It provides a modular and extensible system for automated deep learning model design.
 
-> ⚠️ **Project Status:** Work in progress.  
-> This repository is based on my completed MSc thesis code and has been partially refactored. Some legacy parts remain, some features are still missing, and bugs may appear. The project is evolving, so expect changes and surprises along the way!
+> ⚠️ **Project Status:** PAUSED/MAINTENANCE.  
 
 ---
 
